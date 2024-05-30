@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AgeCal-23/static/css/main.1b62f11a.css",
+    "main.js": "/AgeCal-23/static/js/main.2370c825.js",
+    "static/js/453.2ed1c1f1.chunk.js": "/AgeCal-23/static/js/453.2ed1c1f1.chunk.js",
+    "index.html": "/AgeCal-23/index.html",
+    "main.1b62f11a.css.map": "/AgeCal-23/static/css/main.1b62f11a.css.map",
+    "main.2370c825.js.map": "/AgeCal-23/static/js/main.2370c825.js.map",
+    "453.2ed1c1f1.chunk.js.map": "/AgeCal-23/static/js/453.2ed1c1f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b62f11a.css",
+    "static/js/main.2370c825.js"
+  ]
+}
